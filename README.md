@@ -47,7 +47,7 @@ The application aims to:
 To test the application quickly, you may use the demo account below:
 
 **Email:** jhonnylim@gmail.com  
-**Password:** jhonny123  
+**Password:** jhonnylim123  
 
 ### Steps:
 1. Launch the application.
