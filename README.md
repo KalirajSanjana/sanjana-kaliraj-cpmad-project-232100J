@@ -78,7 +78,7 @@ The application aims to:
 
 ---
 
-### 👤 2. Profile Management
+### 👤 5. Profile Management
 - View and update username  
 - Upload and update profile picture  
 - Profile image stored in Firebase Storage  
