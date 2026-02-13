@@ -153,7 +153,7 @@ Designed with:
 
 ---
 
-## 🏗️ Additional Enhancements
+## 🏗️ Additional Enhancements from proposal
 
 - About Page
 - Call and Email Features
