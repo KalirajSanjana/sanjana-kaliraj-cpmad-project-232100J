@@ -78,6 +78,22 @@ The application aims to:
 
 ---
 
+### 👤 2. Profile Management
+- View and update username  
+- Upload and update profile picture  
+- Profile image stored in Firebase Storage  
+- User profile data stored in Cloud Firestore  
+- Dark mode preference saved using SharedPreferences 
+
+---
+
+### ℹ️ 6. About Page
+- Displays application information and purpose  
+- Explains how ElderCare+ supports enabled ageing  
+- Shows version details and developer information  
+- Provides references to data sources used  
+
+
 ## 🗄️ Data Architecture
 
 ### 📡 Data Sources
