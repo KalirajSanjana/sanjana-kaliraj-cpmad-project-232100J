@@ -142,6 +142,7 @@ Designed with:
 - About Page
 - Call and Email Features
 - Add Reminder to HomePage
+- Profile Page 
 
 
 ---
