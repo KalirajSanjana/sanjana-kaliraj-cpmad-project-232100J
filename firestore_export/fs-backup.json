@@ -7,7 +7,7 @@
 "users/hKPnzhGexxaCrv94Xh6Nut0Gxl72/medications/jhbTMEbrSTRkWdfWK6F5": {"dose":"120mg","name":"Dolo 650","time":"8:00 AM","frequency":"Daily","createdAt":{"__datatype__":"timestamp","value":{"_seconds":1770971134,"_nanoseconds":663000000}}},
 "users/jPl4uPfcf5ebZyfcLaWolRSWRfW2/healthLogs/M9IIZpoQzN5OeFT0md8l": {"date":{"__datatype__":"timestamp","value":{"_seconds":1770907505,"_nanoseconds":705364000}},"createdAt":{"__datatype__":"timestamp","value":{"_seconds":1770907512,"_nanoseconds":109197000}},"systolic":1245,"diastolic":134,"heartRate":89},
 "users/jPl4uPfcf5ebZyfcLaWolRSWRfW2/healthLogs/HrOJXFuM71aMRE2VJ43H": {"date":{"__datatype__":"timestamp","value":{"_seconds":1770904865,"_nanoseconds":684456000}},"createdAt":{"__datatype__":"timestamp","value":{"_seconds":1770904870,"_nanoseconds":154742000}},"systolic":13,"diastolic":13,"heartRate":142},
-"users/jPl4uPfcf5ebZyfcLaWolRSWRfW2/medications/rZ3DXxEXaOHsqqYe3aZH": {"dose":"qrff","name":"3r3","time":"8:00 AM","frequency":"Weekly","createdAt":{"__datatype__":"timestamp","value":{"_seconds":1770904879,"_nanoseconds":267000000}}},
 "users/jPl4uPfcf5ebZyfcLaWolRSWRfW2/medications/H5YJeJlGqA6bRFK1WOsv": {"dose":"120mg","name":"cough syrup","time":"8:00 PM","frequency":"Weekly","createdAt":{"__datatype__":"timestamp","value":{"_seconds":1770907530,"_nanoseconds":707000000}}},
-"metadata": {"timestamp":"2026-02-13_19-09-28","ref":"__ROOT__"}
+"users/jPl4uPfcf5ebZyfcLaWolRSWRfW2/medications/rZ3DXxEXaOHsqqYe3aZH": {"dose":"qrff","name":"3r3","time":"8:00 AM","frequency":"Weekly","createdAt":{"__datatype__":"timestamp","value":{"_seconds":1770904879,"_nanoseconds":267000000}}},
+"metadata": {"timestamp":"2026-02-13_20-14-24","ref":"__ROOT__"}
 }
