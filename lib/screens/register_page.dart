@@ -167,10 +167,13 @@ class _RegisterPageState extends State<RegisterPage> {
                                     gravity: ToastGravity.TOP,
                                   );
 
-                                  Navigator.pushReplacement(
+                                  Navigator.pushAndRemoveUntil(
                                     context,
-                                    MaterialPageRoute(builder: (_) => const HomePage()),
+                                    MaterialPageRoute(
+                                        builder: (_) => const HomePage()),
+                                    (route) => false,
                                   );
+
                                 } else {
                                   Fluttertoast.showToast(
                                     msg: "Registration failed. Try again.",
