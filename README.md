@@ -42,6 +42,27 @@ The application aims to:
 
 ---
 
+## ▶️ How to Use (Demo Account)
+
+To test the application quickly, you may use the demo account below:
+
+**Email:** jhonnylim@gmail.com  
+**Password:** jhonny123  
+
+### Steps:
+1. Launch the application.
+2. Click on **Login**.
+3. Enter the demo credentials above.
+4. You will be redirected to the Home Page.
+5. Explore the features:
+   - Add / edit medications
+   - Record health logs
+   - View nearby CHAS clinics
+   - Update profile picture
+   - Toggle light/dark mode
+
+Alternatively, users may register a new account using the Register option.
+
 ## 🚀 Key Features
 
 ### 🔐 1. User Authentication
